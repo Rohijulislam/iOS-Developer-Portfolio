@@ -48,3 +48,23 @@ Deltapath Mobile is a next-generation business communication app designed to sup
 - PushKit
 - Core Data
 - XMPPFramework
+
+## PBN Grow &nbsp;<a href="https://apps.apple.com/us/app/pbn-grow/id1496564633?platform=iphone"><img src="assets/icons/app-store.png" width="28" height="28" alt="App Store" style="vertical-align:middle;"></a>
+
+PbN Grow is a powerful mobile tool for dental practices, providing 24/7 access to essential features like patient messaging, missed call alerts, actionable analytics, and schedule management — all designed to keep your practice running smoothly on the go.
+
+<p align="center">
+ <img src="assets/projects/pbn1.png", width="150"/>
+ <img src="assets/projects/pbn2.png", width="150"/>
+ <img src="assets/projects/pbn3.png", width="150"/>
+ <img src="assets/projects/pbn4.png", width="150"/>
+</p>
+
+**Tech Used:**
+
+- Swift
+- UIKit
+- SwiftUI
+- MessageKit
+- CallKit
+- Combine
