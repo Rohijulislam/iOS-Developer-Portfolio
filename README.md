@@ -68,3 +68,25 @@ PbN Grow is a powerful mobile tool for dental practices, providing 24/7 access t
 - MessageKit
 - CallKit
 - Combine
+
+## CelebYou - Talent Challenge
+
+ <!-- &nbsp;<a href="https://apps.apple.com/us/app/id1508571180"><img src="assets/icons/app-store.png" width="28" height="28" alt="App Store" style="vertical-align:middle;"></a> -->
+
+CelebYou provides unique and exciting real world experiences for everyone and anyone that loves the arts, entertainment, athletics, design and more. Challenge yourself to showcase your talents and win prizes.
+
+<p align="center">
+ <img src="assets/projects/celebyou1.jpeg", width="150"/>
+ <img src="assets/projects/celebyou2.jpeg", width="150"/>
+ <img src="assets/projects/celebyou3.jpeg", width="150"/>
+ <img src="assets/projects/celebyou4.jpeg", width="150"/>
+</p>
+
+**Tech Used:**
+
+- Swift
+- UIKit
+- AVFoundation
+- Amplify-swift
+- SkeletonView
+- SDWebImage
