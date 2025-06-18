@@ -2,7 +2,7 @@
 
 ## About Me
 
-Design-orientedand collaborative iOS developer with 5 yearsof experience building high-quality apps using Swift,
+Design-orientedand collaborative iOS developer with 5 years of experience building high-quality apps using Swift,
 Objective-C, UIKit and SwiftUI. Skilled in applying design patterns (MVVM, MVVM-C, MVC), clean code principles
 and testing frameworks including XCTest and XCUITest to deliver scalable and maintainable solutions. Also familiar
 with native Android app development using Kotlin and cross-app development using Flutter.
