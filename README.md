@@ -110,7 +110,7 @@ Wanderdriven is a location based app that takes you an unexpected journey of dis
 - Speech
 - UserNotifications
 
-## কুরআনের ভাষা &nbsp;<a href="https://play.google.com/store/apps/details?id=app.quranerbhasa.com"><img src="assets/icons/playstore.png" width="28" height="28" alt="App Store" style="vertical-align:middle;"></a>
+## Quranic Langugae &nbsp;<a href="https://apps.apple.com/us/app/quranic-language/id6756484211"><img src="assets/icons/app-store.png" width="28" height="28" alt="App Store" style="vertical-align:middle;"></a> &nbsp;<a href="https://play.google.com/store/apps/details?id=app.quranerbhasa.com"><img src="assets/icons/playstore.png" width="28" height="28" alt="App Store" style="vertical-align:middle;"></a>
 
 Quran er Bhasha is designed for those of us (Bangladeshi) who can read Arabic but struggle to understand its meaning—especially the words we recite in our daily prayers. Many people long to understand the Qur'an but don’t have the time or opportunity to study Arabic grammar.
 
